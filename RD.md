@@ -9,7 +9,7 @@ The ultimate dashboard to discover all AI tools, apps, and URLs in one place.
 - ⚡ Real-time filtering
 
 ## Live Demo
-[Click here to access](https://YOUR-USERNAME.github.io/ai-nexus-dashboard/)
+[(https://kodesam.github.io/ai-nexsus-dashboard/)]
 
 ## Developer
 **Syed Aamir**
