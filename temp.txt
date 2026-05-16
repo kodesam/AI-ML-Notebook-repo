@@ -1,0 +1,30 @@
+🎯 AI Nexus Dashboard | Your All-in-One Gateway to 35+ AI Tools & Apps
+
+Just launched my personal project that's changing how I discover and access AI tools! 
+
+Instead of juggling multiple tabs and bookmarks, I built a centralized dashboard that brings everything together in one place. 
+
+✨ What You Get:
+✅ 35+ AI Tools (ChatGPT, Claude, Midjourney, Runway, GitHub Copilot & more)
+✅ 8 Smart Categories (LLM, Image Gen, Video, Audio, Coding, Productivity, Research)
+✅ One-Click Access to Any Tool
+✅ Lightning-Fast Search & Filter
+✅ Beautiful, Modern UI with Smooth Animations
+✅ Real-time Dashboard Stats
+
+💡 Why This Matters:
+Instead of searching for "best AI image generator" or "top coding assistant" - everything is organized, categorized, and just ONE CLICK away.
+
+Perfect for:
+• Developers exploring AI coding tools
+• Creatives finding image/video generators  
+• Productivity enthusiasts discovering new assistants
+• Anyone who wants to stay updated on the AI revolution
+
+🔗 Live Dashboard: https://kodesam.github.io/ai-nexsus-dashboard/
+
+The dashboard updates daily with new tools as the AI landscape evolves. Built with modern web tech and designed for speed & usability.
+
+What AI tools are YOU using daily? Drop them in the comments - I'm always looking to expand the dashboard! 👇
+
+#AI #WebDevelopment #Dashboard #AITools #ProductivityTools #OpenSource #SideProject #WebDesign #GitHub #TechProject
